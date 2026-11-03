@@ -4,7 +4,21 @@
 
 ---
 
-## 🔴 Alta prioridad — Gestión clínica completa del paciente
+## 🔴 Alta prioridad — Módulo Consultas (spec y plan listos)
+
+> Ver [[Consultas - Diseño y spec]] y [[Consultas - Plan de implementación]]
+
+### Backend (equipo backend)
+- [ ] Tarea 1: Dominio Consulta + endpoints CRUD + close/reopen → [[Backend - Tareas Módulo Consultas]]
+- [ ] Tarea 2: ExamCatalog + ConsultaExam + ConsultaHospitalization
+- [ ] Tarea 3: Modificar prescriptions (consulta_id + unit_price)
+
+### Frontend (nosotros — espera Tarea 1 del backend)
+- [ ] Tarea 4-11: Ver [[Frontend - Tareas Módulo Consultas]]
+
+---
+
+## 🔴 Alta prioridad — Gestión clínica completa del paciente (origen)
 
 ### 1. Historia clínica descargable
 - Consolidar en un solo documento PDF todo el historial del paciente:
